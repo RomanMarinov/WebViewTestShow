@@ -16,7 +16,7 @@
 Как работает:
 - приложение получает с сервера ссылку на сайт yandex.ru, которая открывается в webview
 ## Работа с кодом 
-Чтобы посмотреть, и запустить приложение с помощью Android Studio, PhpStorm скачайте zip код из release.
+Клиентская часть: android studio java
 
 ## Скрины экрана 
 ![1](https://user-images.githubusercontent.com/61028366/141675453-b4cc5112-2c6d-46a3-8fc0-c983b62f6dc7.jpg)
